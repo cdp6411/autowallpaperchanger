@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="album_edit">
+        <item>Create new album</item>
+        <item>Sort album by name</item>
+        <item>Delete this album</item>
+    </array>
+    <array name="available_wallpaper">
+        <item>Natural</item>
+        <item>Universe</item>
+        <item>Car</item>
+        <item>Animals</item>
+    </array>
+    <array name="set_time">
+        <item>1 minute </item>
+        <item>3 minute</item>
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>30 minute</item>
+        <item>1 hours</item>
+        <item>12 hours</item>
+        <item>1 day</item>
+    </array>
+</resources>

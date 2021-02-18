@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item android:icon="@drawable/ic_folder"
+            android:id="@+id/nav_your_album"
+            android:title="@string/nav_your_album"/>
+
+        <item
+            android:icon="@drawable/ic_art"
+            android:id="@+id/nav_available"
+            android:title="@string/nav_available"/>
+
+        <item
+            android:icon="@drawable/ic_cog"
+            android:id="@+id/nav_setting"
+            android:title="@string/nav_setting"/>
+
+    </group>
+
+    <item
+        android:title="Communicate">
+        <menu>
+            <item
+                android:icon="@drawable/ic_share"
+                android:id="@+id/nav_share"
+                android:title="@string/nav_share"/>
+        </menu>
+    </item>
+
+</menu>
